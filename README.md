@@ -1,2 +1,3 @@
 # EIA2-Node
-Node-Code EIA2
+Node-Code für EIA2  
+Serverseite
